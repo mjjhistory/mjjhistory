@@ -1,16 +1,18 @@
-## Hi there 👋
+# 《MJJ史记》
 
-<!--
-**mjjhistory/mjjhistory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+​	MJJ是一个爱好买机机、折腾服务器相关技术的群体，其中富哥很多，每天也在上演很多新鲜有趣的事情，以及时不时的大规模白嫖。
 
-Here are some ideas to get you started:
+​	因此选择一些历史意义重大的记录，给后来的MJJ品尝。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 时间          | 事件                                                         |
+| ------------- | ------------------------------------------------------------ |
+| 2025年7月29日 | GV价格大战在NodeSeek爆发，GV价格低至1RMB，更有商家免费送出大量GV号。 |
+|               |                                                              |
+|               |                                                              |
+|               |                                                              |
+|               |                                                              |
+|               |                                                              |
+|               |                                                              |
+|               |                                                              |
+|               |                                                              |
+
